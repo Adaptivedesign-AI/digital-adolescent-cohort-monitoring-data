@@ -1,6 +1,22 @@
 {
   "sessions": {},
-  "conversations": [],
+  "conversations": [
+    {
+      "id": 1,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "student_id": "student001",
+      "student_name": "Jaden",
+      "user_message": "1",
+      "ai_response": "Uh, hey? What’s up? Is this, like, a test or something? I mean, I’m just chilling right now, so... yeah. \n\nEmotion tag: confused",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-11T12:24:46.863835",
+      "response_time_ms": 2773.104,
+      "message_length": 1,
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "conversation_turn": 1
+    }
+  ],
   "user_actions": [
     {
       "id": 1,
@@ -10,15 +26,25 @@
         "student_id": "student001"
       },
       "timestamp": "2025-09-11T12:24:40.356731"
+    },
+    {
+      "id": 2,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student001"
+      },
+      "timestamp": "2025-09-11T12:24:40.645518"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T12:24:40.356740",
+  "last_updated": "2025-09-11T12:24:46.863877",
   "version": "2.0",
   "summary": {
-    "total_conversations": 0,
+    "total_conversations": 1,
     "total_users": 0,
-    "most_active_student": null,
-    "total_messages": 0
+    "most_active_student": "Jaden",
+    "total_messages": 1,
+    "last_24h_conversations": 1
   }
 }
