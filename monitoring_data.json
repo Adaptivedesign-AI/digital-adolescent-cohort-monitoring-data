@@ -45,6 +45,21 @@
       "day_of_week": "Thursday",
       "hour": 12,
       "conversation_turn": 1
+    },
+    {
+      "id": 4,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "2",
+      "ai_response": "Okay, I see you just put a number. Is this like a game or something? Not really sure what’s going on here, but I’m kinda just waiting for something to happen. \n\nEmotion tag: confused",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-11T12:25:04.676886",
+      "response_time_ms": 3409.607,
+      "message_length": 1,
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -77,13 +92,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T12:24:58.700824",
+  "last_updated": "2025-09-11T12:25:04.676936",
   "version": "2.0",
   "summary": {
-    "total_conversations": 3,
+    "total_conversations": 4,
     "total_users": 0,
     "most_active_student": "Jaden",
-    "total_messages": 3,
-    "last_24h_conversations": 3
+    "total_messages": 4,
+    "last_24h_conversations": 4
   }
 }
