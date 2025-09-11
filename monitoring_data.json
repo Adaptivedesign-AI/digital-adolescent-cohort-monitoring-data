@@ -249,10 +249,19 @@
         "student_id": "student002"
       },
       "timestamp": "2025-09-11T15:59:27.625078"
+    },
+    {
+      "id": 9,
+      "session_id": "94aeffd0-5e9f-4c4c-aa2d-8e6223ded523",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student002"
+      },
+      "timestamp": "2025-09-11T16:11:31.531059"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T16:11:30.699867",
+  "last_updated": "2025-09-11T16:11:31.531071",
   "version": "2.0",
   "summary": {
     "total_conversations": 8,
