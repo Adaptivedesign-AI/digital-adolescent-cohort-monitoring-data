@@ -1,5 +1,15 @@
 {
-  "sessions": {},
+  "sessions": {
+    "9266e516-c52e-4d9f-a9ab-6d3ccb29d83c": {
+      "session_id": "9266e516-c52e-4d9f-a9ab-6d3ccb29d83c",
+      "ip_address": "10.220.19.248",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15",
+      "start_time": "2025-09-11T12:54:04.280990",
+      "end_time": null,
+      "total_messages": 0,
+      "last_activity": "2025-09-11T12:54:04.280999"
+    }
+  },
   "conversations": [
     {
       "id": 1,
@@ -116,7 +126,7 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T12:25:10.799853",
+  "last_updated": "2025-09-11T12:54:04.281005",
   "version": "2.0",
   "summary": {
     "total_conversations": 5,
