@@ -60,6 +60,21 @@
       "day_of_week": "Thursday",
       "hour": 12,
       "conversation_turn": 2
+    },
+    {
+      "id": 5,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "student_id": "student004",
+      "student_name": "Malik",
+      "user_message": "hello",
+      "ai_response": "Hey. What’s up? \n\nEmotion tag: kinda ok",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-11T12:25:10.799809",
+      "response_time_ms": 758.342,
+      "message_length": 5,
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -101,13 +116,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T12:25:05.292213",
+  "last_updated": "2025-09-11T12:25:10.799853",
   "version": "2.0",
   "summary": {
-    "total_conversations": 4,
+    "total_conversations": 5,
     "total_users": 0,
     "most_active_student": "Jaden",
-    "total_messages": 4,
-    "last_24h_conversations": 4
+    "total_messages": 5,
+    "last_24h_conversations": 5
   }
 }
