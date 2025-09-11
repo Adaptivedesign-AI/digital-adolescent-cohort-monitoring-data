@@ -15,8 +15,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-09-11T15:10:40.837381",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-09-11T15:10:40.837391"
+      "total_messages": 1,
+      "last_activity": "2025-09-11T15:12:20.840105"
     },
     "4aed9be1-7024-4e31-be0a-6c940f42bccb": {
       "session_id": "4aed9be1-7024-4e31-be0a-6c940f42bccb",
@@ -103,6 +103,21 @@
       "day_of_week": "Thursday",
       "hour": 12,
       "conversation_turn": 1
+    },
+    {
+      "id": 6,
+      "session_id": "2987d752-3c7d-46e7-946b-edc0b65963ac",
+      "student_id": "student005",
+      "student_name": "Aaliyah",
+      "user_message": "What's been going on for you lately?",
+      "ai_response": "Ugh, honestly? It’s been kinda rough. School's just... exhausting. I mean, I mostly get good grades, but with all the pressure, it feels like I can’t breathe sometimes. And then there’s social media. I thought it was supposed to be fun, but I’ve been dealing with some cyberbullying lately. Like, people just talking trash about me online, and it’s really draining. I try to brush it off, but it gets to me, you know? Makes it hard to keep my head up. \n\nI’m just trying to focus on sports and hanging out with friends, but it’s like there’s this cloud following me around. I don’t even know how to deal with it all. \n\nEmotion tag: spiraling",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-11T15:12:20.840065",
+      "response_time_ms": 4115.531,
+      "message_length": 36,
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -162,13 +177,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T15:11:39.332441",
+  "last_updated": "2025-09-11T15:12:20.840129",
   "version": "2.0",
   "summary": {
-    "total_conversations": 5,
-    "total_users": 0,
+    "total_conversations": 6,
+    "total_users": 3,
     "most_active_student": "Jaden",
-    "total_messages": 5,
-    "last_24h_conversations": 5
+    "total_messages": 6,
+    "last_24h_conversations": 6
   }
 }
