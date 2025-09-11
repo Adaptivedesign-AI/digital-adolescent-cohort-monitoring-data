@@ -15,6 +15,36 @@
       "day_of_week": "Thursday",
       "hour": 12,
       "conversation_turn": 1
+    },
+    {
+      "id": 2,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "student_id": "student001",
+      "student_name": "Jaden",
+      "user_message": "2",
+      "ai_response": "Okay, so... is this some kind of game or are we just counting? 'Cause I’m not really sure what’s going on. If you want to talk about something, I’m here for it, I guess. \n\nEmotion tag: bored",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-11T12:24:54.277016",
+      "response_time_ms": 4717.856000000001,
+      "message_length": 1,
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "conversation_turn": 2
+    },
+    {
+      "id": 3,
+      "session_id": "49bbef27-d0e9-4d4e-94db-a77d2bbea657",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "1",
+      "ai_response": "Uh, hey? Not sure what you want me to say, but here I am. Just chillin', I guess. \n\nEmotion tag: bored",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-11T12:24:58.700776",
+      "response_time_ms": 936.1859999999999,
+      "message_length": 1,
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -47,13 +77,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T12:24:54.268494",
+  "last_updated": "2025-09-11T12:24:58.700824",
   "version": "2.0",
   "summary": {
-    "total_conversations": 1,
+    "total_conversations": 3,
     "total_users": 0,
     "most_active_student": "Jaden",
-    "total_messages": 1,
-    "last_24h_conversations": 1
+    "total_messages": 3,
+    "last_24h_conversations": 3
   }
 }
