@@ -150,10 +150,19 @@
         "student_id": "student005"
       },
       "timestamp": "2025-09-11T15:11:35.449528"
+    },
+    {
+      "id": 6,
+      "session_id": "4aed9be1-7024-4e31-be0a-6c940f42bccb",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student005"
+      },
+      "timestamp": "2025-09-11T15:11:39.332428"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T15:11:38.481813",
+  "last_updated": "2025-09-11T15:11:39.332441",
   "version": "2.0",
   "summary": {
     "total_conversations": 5,
