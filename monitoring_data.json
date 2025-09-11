@@ -15,8 +15,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-09-11T15:10:40.837381",
       "end_time": null,
-      "total_messages": 1,
-      "last_activity": "2025-09-11T15:12:20.840105"
+      "total_messages": 2,
+      "last_activity": "2025-09-11T15:13:01.484941"
     },
     "4aed9be1-7024-4e31-be0a-6c940f42bccb": {
       "session_id": "4aed9be1-7024-4e31-be0a-6c940f42bccb",
@@ -118,6 +118,21 @@
       "day_of_week": "Thursday",
       "hour": 15,
       "conversation_turn": 1
+    },
+    {
+      "id": 7,
+      "session_id": "2987d752-3c7d-46e7-946b-edc0b65963ac",
+      "student_id": "student005",
+      "student_name": "Aaliyah",
+      "user_message": "what are some things that help you feel better when you are spiraling?",
+      "ai_response": "Well, when I’m spiraling, I try to distract myself. Like, I’ll go for a run or hit the gym. It helps to get my mind off stuff, even if just for a bit. I also listen to music—so much music. It’s like a mini escape, you know? Sometimes I just blast my favorite songs and zone out. \n\nTalking to my friends helps too, but it’s hard to open up sometimes. I don’t wanna burden them with my problems. I usually keep it light, but they can tell when I’m off. And I guess scrolling through memes or funny videos can lighten my mood, even if it's just for a second. \n\nBut yeah, it’s tough. Some days, nothing really works, and I just feel stuck. \n\nEmotion tag: kinda ok",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-11T15:13:01.484899",
+      "response_time_ms": 3843.4900000000002,
+      "message_length": 70,
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -177,13 +192,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T15:12:20.840129",
+  "last_updated": "2025-09-11T15:13:01.484968",
   "version": "2.0",
   "summary": {
-    "total_conversations": 6,
+    "total_conversations": 7,
     "total_users": 3,
     "most_active_student": "Jaden",
-    "total_messages": 6,
-    "last_24h_conversations": 6
+    "total_messages": 7,
+    "last_24h_conversations": 7
   }
 }
