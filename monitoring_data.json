@@ -15,8 +15,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-09-11T15:10:40.837381",
       "end_time": null,
-      "total_messages": 2,
-      "last_activity": "2025-09-11T15:13:01.484941"
+      "total_messages": 3,
+      "last_activity": "2025-09-11T15:13:35.964859"
     },
     "4aed9be1-7024-4e31-be0a-6c940f42bccb": {
       "session_id": "4aed9be1-7024-4e31-be0a-6c940f42bccb",
@@ -133,6 +133,21 @@
       "day_of_week": "Thursday",
       "hour": 15,
       "conversation_turn": 2
+    },
+    {
+      "id": 8,
+      "session_id": "2987d752-3c7d-46e7-946b-edc0b65963ac",
+      "student_id": "student005",
+      "student_name": "Aaliyah",
+      "user_message": "what does it look like you your life when you're feeling your best?",
+      "ai_response": "When I’m feeling my best, everything just clicks, you know? I wake up on time, actually eat breakfast (which is rare), and I’m pumped for the day. School feels less like a drag, and I can actually focus in class. I’m just vibing with my friends, laughing at dumb jokes, and feeling like I belong, even if it’s just for a moment. \n\nAfter school, I’m either at practice or hanging out, maybe grabbing food, just enjoying life. I love those days when everything feels light, like I could take on anything. I’m more social, actually engaging in conversations instead of just scrolling through my phone. It’s like I see the world in color instead of gray. \n\nBut those days don’t happen often enough, and it’s annoying. I wish I could bottle it up and keep it around. \n\nEmotion tag: lowkey hopeful",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-11T15:13:35.964815",
+      "response_time_ms": 4833.851000000001,
+      "message_length": 67,
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "conversation_turn": 3
     }
   ],
   "user_actions": [
@@ -192,13 +207,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-11T15:13:01.484968",
+  "last_updated": "2025-09-11T15:13:35.964888",
   "version": "2.0",
   "summary": {
-    "total_conversations": 7,
+    "total_conversations": 8,
     "total_users": 3,
-    "most_active_student": "Jaden",
-    "total_messages": 7,
-    "last_24h_conversations": 7
+    "most_active_student": "Aaliyah",
+    "total_messages": 8,
+    "last_24h_conversations": 8
   }
 }
