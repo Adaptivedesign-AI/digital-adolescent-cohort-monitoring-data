@@ -78,8 +78,8 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-09-20T21:41:08.818323",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-09-20T21:41:08.819317"
+      "total_messages": 1,
+      "last_activity": "2025-09-20T21:42:40.332735"
     },
     "398f7401-0354-43ed-9ea9-4935dac6d882": {
       "session_id": "398f7401-0354-43ed-9ea9-4935dac6d882",
@@ -211,6 +211,21 @@
       "day_of_week": "Thursday",
       "hour": 15,
       "conversation_turn": 3
+    },
+    {
+      "id": 9,
+      "session_id": "602cdf89-694a-461d-9038-60c6f4d00835",
+      "student_id": "student008",
+      "student_name": "Brianna",
+      "user_message": "Hi Brianna",
+      "ai_response": "Hey! What’s up? \n\nEmotion tag: kinda ok",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-20T21:42:40.332691",
+      "response_time_ms": 1273.573,
+      "message_length": 10,
+      "day_of_week": "Saturday",
+      "hour": 21,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -339,16 +354,25 @@
         "student_id": "student008"
       },
       "timestamp": "2025-09-20T21:41:50.328513"
+    },
+    {
+      "id": 15,
+      "session_id": "602cdf89-694a-461d-9038-60c6f4d00835",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student008"
+      },
+      "timestamp": "2025-09-20T21:41:50.619683"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-20T21:41:50.328522",
+  "last_updated": "2025-09-20T21:42:40.332758",
   "version": "2.0",
   "summary": {
-    "total_conversations": 8,
-    "total_users": 3,
+    "total_conversations": 9,
+    "total_users": 10,
     "most_active_student": "Aaliyah",
-    "total_messages": 8,
-    "last_24h_conversations": 8
+    "total_messages": 9,
+    "last_24h_conversations": 1
   }
 }
