@@ -71,6 +71,15 @@
       "end_time": null,
       "total_messages": 0,
       "last_activity": "2025-09-15T13:34:37.565629"
+    },
+    "602cdf89-694a-461d-9038-60c6f4d00835": {
+      "session_id": "602cdf89-694a-461d-9038-60c6f4d00835",
+      "ip_address": "10.220.120.213",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "start_time": "2025-09-20T21:41:08.818323",
+      "end_time": null,
+      "total_messages": 0,
+      "last_activity": "2025-09-20T21:41:08.819317"
     }
   },
   "conversations": [
@@ -303,10 +312,19 @@
         "student_id": "student001"
       },
       "timestamp": "2025-09-15T13:36:46.602141"
+    },
+    {
+      "id": 13,
+      "session_id": "6b99e718-d834-4208-8f69-0381eb818d11",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student001"
+      },
+      "timestamp": "2025-09-15T13:36:46.919039"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-15T13:36:46.602148",
+  "last_updated": "2025-09-20T21:41:08.819323",
   "version": "2.0",
   "summary": {
     "total_conversations": 8,
