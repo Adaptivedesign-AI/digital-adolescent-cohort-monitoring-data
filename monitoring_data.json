@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 1,
-      "last_activity": "2025-09-24T11:33:13.869869"
+      "total_messages": 2,
+      "last_activity": "2025-09-24T11:35:00.118567"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -286,6 +286,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 1
+    },
+    {
+      "id": 11,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "what do i do? my parents don't want me to move out",
+      "ai_response": "I get it. That’s a tough spot to be in. Like, I totally understand wanting to have your own space and be independent, but parents can be such a buzzkill about it. They probably just worry or think you're not ready or whatever, but it feels so suffocating sometimes. \n\nMaybe try talking to them, like really talking. Explain why you wanna move out and how it’ll help you. But also, be prepared for them to still say no, because they might not get it. It’s frustrating, but they might just need to see that you can handle it. Or maybe find a compromise like, I don’t know, staying with a friend for a weekend or something. Just to show them you can do it. \n\nBut yeah, it’s rough. I wish I had better advice, but it’s all about finding that balance, you know?\n\nEmotion tag: frustrated",
+      "scene_context": "Had an argument with parents about independence",
+      "timestamp": "2025-09-24T11:35:00.118529",
+      "response_time_ms": 3999.429,
+      "message_length": 50,
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -444,13 +459,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:33:13.869902",
+  "last_updated": "2025-09-24T11:35:00.118594",
   "version": "2.0",
   "summary": {
-    "total_conversations": 10,
+    "total_conversations": 11,
     "total_users": 15,
     "most_active_student": "Ethan",
-    "total_messages": 10,
-    "last_24h_conversations": 1
+    "total_messages": 11,
+    "last_24h_conversations": 2
   }
 }
