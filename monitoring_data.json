@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 2,
-      "last_activity": "2025-09-24T11:35:00.118567"
+      "total_messages": 3,
+      "last_activity": "2025-09-24T11:37:02.512706"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -301,6 +301,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 2
+    },
+    {
+      "id": 12,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "How do i navigate it?",
+      "ai_response": "Navigating this whole situation is gonna take some finesse, I guess. First off, you need to really think about what you want and why. Like, is it just about having your own space, or is there something else going on? Once you know that, you can approach your parents with a clearer head.\n\nWhen you talk to them, pick a good time, not when they're stressed or busy. Just be honest. Share your feelings without sounding all confrontational. Maybe tell them how it feels living at home and what you hope to gain by moving out.\n\nThen, listen to their side too. They might have some valid concerns, and understanding their perspective can help you navigate the convo better. Like, if they’re worried about money, maybe talk about how you plan to cover your expenses. \n\nAnd if they’re still super against it after all that, you might have to show them you're responsible in other ways. Like keeping up with school, doing chores, or whatever. It’s kinda like proving you can handle adult stuff, you know?\n\nUgh, it’s complicated, but just keep being honest and try to keep the peace. \n\nEmotion tag: lowkey anxious",
+      "scene_context": "Please describe your custom scenario above",
+      "timestamp": "2025-09-24T11:37:02.512665",
+      "response_time_ms": 4715.256,
+      "message_length": 21,
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "conversation_turn": 3
     }
   ],
   "user_actions": [
@@ -459,13 +474,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:35:00.118594",
+  "last_updated": "2025-09-24T11:37:02.512739",
   "version": "2.0",
   "summary": {
-    "total_conversations": 11,
+    "total_conversations": 12,
     "total_users": 15,
     "most_active_student": "Ethan",
-    "total_messages": 11,
-    "last_24h_conversations": 2
+    "total_messages": 12,
+    "last_24h_conversations": 3
   }
 }
