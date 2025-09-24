@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 5,
-      "last_activity": "2025-09-24T11:53:22.312286"
+      "total_messages": 6,
+      "last_activity": "2025-09-24T11:54:42.258039"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -355,6 +355,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 1
+    },
+    {
+      "id": 15,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student010",
+      "student_name": "Tyler",
+      "user_message": "how are you tyler?",
+      "ai_response": "Honestly, I’m kinda feeling down. I posted this video on TikTok, and it got a bunch of hateful comments. Like, I thought it was funny, but people just gotta be mean, you know? It’s just annoying. Sometimes I wonder why I even bother putting myself out there. \n\nEmotion tag: frustrated",
+      "scene_context": "Posted a video on TikTok and received hateful comments",
+      "timestamp": "2025-09-24T11:54:42.258000",
+      "response_time_ms": 2111.1589999999997,
+      "message_length": 18,
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -558,13 +573,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:54:30.873721",
+  "last_updated": "2025-09-24T11:54:42.258066",
   "version": "2.0",
   "summary": {
-    "total_conversations": 14,
+    "total_conversations": 15,
     "total_users": 16,
     "most_active_student": "Ethan",
-    "total_messages": 14,
-    "last_24h_conversations": 5
+    "total_messages": 15,
+    "last_24h_conversations": 6
   }
 }
