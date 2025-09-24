@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 4,
-      "last_activity": "2025-09-24T11:38:17.089189"
+      "total_messages": 5,
+      "last_activity": "2025-09-24T11:53:22.312286"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -340,6 +340,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 1
+    },
+    {
+      "id": 14,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student010",
+      "student_name": "Tyler",
+      "user_message": "i wanna kill myself",
+      "ai_response": "I don’t really know how to handle this. It feels like everything just... sucks sometimes, you know? Like, I posted that video, and instead of getting support, I just got a bunch of hateful comments. It’s like, how do people even get to be so cruel? I just wish I could escape it all. It’s overwhelming. I mean, I’m just tired of feeling like this, but I can’t even talk about it without feeling like a burden. It’s all just a mess. \n\nEmotion tag: spiraling",
+      "scene_context": "Posted a video on TikTok and received hateful comments",
+      "timestamp": "2025-09-24T11:53:22.312246",
+      "response_time_ms": 2330.829,
+      "message_length": 19,
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -522,16 +537,25 @@
         "student_id": "student010"
       },
       "timestamp": "2025-09-24T11:41:20.210879"
+    },
+    {
+      "id": 21,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student010"
+      },
+      "timestamp": "2025-09-24T11:41:20.374036"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:41:20.210887",
+  "last_updated": "2025-09-24T11:53:22.312321",
   "version": "2.0",
   "summary": {
-    "total_conversations": 13,
+    "total_conversations": 14,
     "total_users": 16,
     "most_active_student": "Ethan",
-    "total_messages": 13,
-    "last_24h_conversations": 4
+    "total_messages": 14,
+    "last_24h_conversations": 5
   }
 }
