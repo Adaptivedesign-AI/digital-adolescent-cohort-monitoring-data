@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 12,
-      "last_activity": "2025-09-24T12:14:05.144910"
+      "total_messages": 13,
+      "last_activity": "2025-09-24T12:14:41.635044"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -487,6 +487,21 @@
       "day_of_week": "Wednesday",
       "hour": 12,
       "conversation_turn": 2
+    },
+    {
+      "id": 22,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student004",
+      "student_name": "Malik",
+      "user_message": "Have you tried talking to people who have done it already?",
+      "ai_response": "Yeah, I’ve talked to a few people, like older students and some family friends. They give me advice, but it all feels kinda generic, you know? Like, they say stuff like, “Just follow your passion” or “You’ll figure it out.” But it’s easy for them to say when they’re already in college. I want real, practical tips, not just motivational quotes. Sometimes I feel like I need someone who gets it, like, someone who can actually help me sort through all this. \n\nEmotion tag: frustrated",
+      "scene_context": "Facing college application stress",
+      "timestamp": "2025-09-24T12:14:41.634996",
+      "response_time_ms": 2514.872,
+      "message_length": 58,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "conversation_turn": 3
     }
   ],
   "user_actions": [
@@ -753,13 +768,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T12:14:05.144955",
+  "last_updated": "2025-09-24T12:14:41.635084",
   "version": "2.0",
   "summary": {
-    "total_conversations": 21,
+    "total_conversations": 22,
     "total_users": 19,
     "most_active_student": "Ethan",
-    "total_messages": 21,
-    "last_24h_conversations": 12
+    "total_messages": 22,
+    "last_24h_conversations": 13
   }
 }
