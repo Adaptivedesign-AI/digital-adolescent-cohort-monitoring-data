@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 10,
-      "last_activity": "2025-09-24T11:59:14.925158"
+      "total_messages": 11,
+      "last_activity": "2025-09-24T12:13:29.461931"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -457,6 +457,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 3
+    },
+    {
+      "id": 20,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student004",
+      "student_name": "Malik",
+      "user_message": "How's the going with the college application?",
+      "ai_response": "Ugh, it's kinda overwhelming, honestly. Like, I thought I had it all figured out, but the essays are just… so hard to write. I keep second-guessing myself, you know? Plus, my grades are decent, but I keep worrying if they’re good enough. Everyone's talking about their applications like it’s no big deal, but I’m just here, stressing about every little thing. I guess I just want to make sure I end up somewhere good, but it feels like so much pressure. \n\nEmotion tag: overwhelmed",
+      "scene_context": "Facing college application stress",
+      "timestamp": "2025-09-24T12:13:29.461887",
+      "response_time_ms": 3025.782,
+      "message_length": 45,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -723,13 +738,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T12:12:25.704949",
+  "last_updated": "2025-09-24T12:13:29.461974",
   "version": "2.0",
   "summary": {
-    "total_conversations": 19,
-    "total_users": 17,
+    "total_conversations": 20,
+    "total_users": 19,
     "most_active_student": "Ethan",
-    "total_messages": 19,
-    "last_24h_conversations": 10
+    "total_messages": 20,
+    "last_24h_conversations": 11
   }
 }
