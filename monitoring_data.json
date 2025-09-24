@@ -417,10 +417,19 @@
         "student_id": "student002"
       },
       "timestamp": "2025-09-24T11:32:49.246576"
+    },
+    {
+      "id": 17,
+      "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student002"
+      },
+      "timestamp": "2025-09-24T11:32:54.302402"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:32:53.498858",
+  "last_updated": "2025-09-24T11:32:54.302415",
   "version": "2.0",
   "summary": {
     "total_conversations": 9,
