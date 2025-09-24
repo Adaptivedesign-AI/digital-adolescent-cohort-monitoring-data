@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 3,
-      "last_activity": "2025-09-24T11:37:02.512706"
+      "total_messages": 4,
+      "last_activity": "2025-09-24T11:38:17.089189"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -325,6 +325,21 @@
       "day_of_week": "Wednesday",
       "hour": 11,
       "conversation_turn": 3
+    },
+    {
+      "id": 13,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student003",
+      "student_name": "Emily",
+      "user_message": "Parents going through a divorce and i just dont know how to handle it",
+      "ai_response": "Ugh, it’s just so messy, you know? I mean, my parents are constantly fighting, and it feels like everything’s changing. I just want things to go back to how they were, but I guess that's not happening. My mom’s always stressed, and my dad… well, he’s just, I don’t know, acting like nothing’s wrong. I feel like I’m stuck in the middle, like I have to pick sides or something. It’s exhausting. \n\nSometimes I just want to scream, but then I feel guilty for even feeling that way. I’ve been missing school more, just ‘cause I can’t deal with it. And it’s not like anyone really gets it. I talk to my friends, but they don't really know what to say. \n\nI just wish I could find a way to cope or something, but it just feels heavy all the time. Like, how do you even handle this? \n\nEmotion tag: overwhelmed",
+      "scene_context": "Please describe your custom scenario above",
+      "timestamp": "2025-09-24T11:38:17.089150",
+      "response_time_ms": 5304.393,
+      "message_length": 69,
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -501,13 +516,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:37:36.208022",
+  "last_updated": "2025-09-24T11:38:17.089221",
   "version": "2.0",
   "summary": {
-    "total_conversations": 12,
-    "total_users": 15,
+    "total_conversations": 13,
+    "total_users": 16,
     "most_active_student": "Ethan",
-    "total_messages": 12,
-    "last_24h_conversations": 3
+    "total_messages": 13,
+    "last_24h_conversations": 4
   }
 }
