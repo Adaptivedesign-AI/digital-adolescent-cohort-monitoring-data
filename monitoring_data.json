@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-09-24T11:32:36.406472"
+      "total_messages": 1,
+      "last_activity": "2025-09-24T11:33:13.869869"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -270,6 +270,21 @@
       "message_length": 10,
       "day_of_week": "Saturday",
       "hour": 21,
+      "conversation_turn": 1
+    },
+    {
+      "id": 10,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "My moods lately",
+      "ai_response": "Honestly, my moods have been all over the place. Some days I feel like I can take on the world, and then other days, I just wanna hide in my room and not deal with anything. It's like this constant back-and-forth. I think it's mostly school stress and just trying to figure out who I am or whatever. Plus, I feel like I don't really connect with people, even when I'm around them. \n\nIt's weird, like I’m in a room full of friends but still feel kinda lonely. I guess I just want to feel understood or something. Ugh, I don’t know. \n\nEmotion tag: confused",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-24T11:33:13.869824",
+      "response_time_ms": 3595.657,
+      "message_length": 15,
+      "day_of_week": "Wednesday",
+      "hour": 11,
       "conversation_turn": 1
     }
   ],
@@ -429,13 +444,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:32:54.302415",
+  "last_updated": "2025-09-24T11:33:13.869902",
   "version": "2.0",
   "summary": {
-    "total_conversations": 9,
-    "total_users": 10,
-    "most_active_student": "Aaliyah",
-    "total_messages": 9,
+    "total_conversations": 10,
+    "total_users": 15,
+    "most_active_student": "Ethan",
+    "total_messages": 10,
     "last_24h_conversations": 1
   }
 }
