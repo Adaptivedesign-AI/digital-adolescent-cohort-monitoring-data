@@ -123,8 +123,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "start_time": "2025-09-24T11:32:36.406463",
       "end_time": null,
-      "total_messages": 11,
-      "last_activity": "2025-09-24T12:13:29.461931"
+      "total_messages": 12,
+      "last_activity": "2025-09-24T12:14:05.144910"
     },
     "158181f2-3b4f-4184-aa38-39d070883693": {
       "session_id": "158181f2-3b4f-4184-aa38-39d070883693",
@@ -472,6 +472,21 @@
       "day_of_week": "Wednesday",
       "hour": 12,
       "conversation_turn": 1
+    },
+    {
+      "id": 21,
+      "session_id": "eec409be-59b2-415c-a2e6-e2aa2372643e",
+      "student_id": "student004",
+      "student_name": "Malik",
+      "user_message": "Have you tried identifying excatly the course you wanna pursue?",
+      "ai_response": "Not really, to be honest. I mean, I have some ideas, but nothing’s set in stone. Like, I kinda like the idea of business or maybe something creative, but then I think, what if I pick the wrong thing? It’s just hard to commit to something when I’m still figuring out what I really want. Sometimes I feel like I’m just guessing and hoping it works out. Everyone else seems so sure, and I’m over here like, “meh, idk.” \n\nEmotion tag: confused",
+      "scene_context": "Facing college application stress",
+      "timestamp": "2025-09-24T12:14:05.144858",
+      "response_time_ms": 2634.9649999999997,
+      "message_length": 63,
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -738,13 +753,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T12:13:29.461974",
+  "last_updated": "2025-09-24T12:14:05.144955",
   "version": "2.0",
   "summary": {
-    "total_conversations": 20,
+    "total_conversations": 21,
     "total_users": 19,
     "most_active_student": "Ethan",
-    "total_messages": 20,
-    "last_24h_conversations": 11
+    "total_messages": 21,
+    "last_24h_conversations": 12
   }
 }
