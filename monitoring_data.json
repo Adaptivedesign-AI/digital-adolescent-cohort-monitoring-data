@@ -603,10 +603,19 @@
         "student_id": "student007"
       },
       "timestamp": "2025-09-24T11:56:10.971705"
+    },
+    {
+      "id": 24,
+      "session_id": "9a9f644b-dda0-49d7-befc-7ba983ffdc9e",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student007"
+      },
+      "timestamp": "2025-09-24T11:56:16.700917"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-24T11:56:15.801679",
+  "last_updated": "2025-09-24T11:56:16.700932",
   "version": "2.0",
   "summary": {
     "total_conversations": 16,
