@@ -204,8 +204,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
       "start_time": "2025-09-25T08:22:41.587716",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-09-25T08:22:41.588634"
+      "total_messages": 1,
+      "last_activity": "2025-09-25T08:23:15.445436"
     }
   },
   "conversations": [
@@ -553,6 +553,21 @@
       "day_of_week": "Wednesday",
       "hour": 12,
       "conversation_turn": 4
+    },
+    {
+      "id": 24,
+      "session_id": "777dd509-312c-4118-b29c-db3b6d6f3dd6",
+      "student_id": "student003",
+      "student_name": "Emily",
+      "user_message": "How do you feel today?",
+      "ai_response": "Honestly? I’m kinda overwhelmed. School's been a lot lately, and I feel like I’m just running on fumes. I’ve got a ton of homework to catch up on, and I barely slept last night. It’s like, am I even awake right now? Meeting a new friend is exciting, but also kind of nerve-wracking. What if they don’t like me or something? \n\nEmotion tag: anxious",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-09-25T08:23:15.445397",
+      "response_time_ms": 3091.657,
+      "message_length": 22,
+      "day_of_week": "Thursday",
+      "hour": 8,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -855,13 +870,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-25T08:22:49.294057",
+  "last_updated": "2025-09-25T08:23:15.445471",
   "version": "2.0",
   "summary": {
-    "total_conversations": 23,
-    "total_users": 19,
+    "total_conversations": 24,
+    "total_users": 23,
     "most_active_student": "Ethan",
-    "total_messages": 23,
-    "last_24h_conversations": 14
+    "total_messages": 24,
+    "last_24h_conversations": 15
   }
 }
