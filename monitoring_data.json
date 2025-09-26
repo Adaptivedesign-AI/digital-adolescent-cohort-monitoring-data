@@ -912,10 +912,19 @@
         "student_id": "student001"
       },
       "timestamp": "2025-09-26T12:33:31.604362"
+    },
+    {
+      "id": 37,
+      "session_id": "7619f864-c3f5-4d40-95a4-cd552cfcaacd",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student001"
+      },
+      "timestamp": "2025-09-26T12:33:35.408915"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-26T12:33:34.488235",
+  "last_updated": "2025-09-26T12:33:35.408933",
   "version": "2.0",
   "summary": {
     "total_conversations": 24,
