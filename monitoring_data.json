@@ -240,8 +240,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
       "start_time": "2025-09-30T02:42:57.117147",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-09-30T02:42:57.117156"
+      "total_messages": 1,
+      "last_activity": "2025-09-30T02:43:23.948075"
     }
   },
   "conversations": [
@@ -603,6 +603,21 @@
       "message_length": 22,
       "day_of_week": "Thursday",
       "hour": 8,
+      "conversation_turn": 1
+    },
+    {
+      "id": 25,
+      "session_id": "fac95b92-2503-44ce-84fb-a9ec3504d607",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "hey there",
+      "ai_response": "Hey. What’s up? \n\nEmotion tag: kinda ok",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-30T02:43:23.948038",
+      "response_time_ms": 1588.856,
+      "message_length": 9,
+      "day_of_week": "Tuesday",
+      "hour": 2,
       "conversation_turn": 1
     }
   ],
@@ -969,13 +984,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-30T02:43:03.352811",
+  "last_updated": "2025-09-30T02:43:23.948107",
   "version": "2.0",
   "summary": {
-    "total_conversations": 24,
-    "total_users": 23,
+    "total_conversations": 25,
+    "total_users": 27,
     "most_active_student": "Ethan",
-    "total_messages": 24,
-    "last_24h_conversations": 15
+    "total_messages": 25,
+    "last_24h_conversations": 1
   }
 }
