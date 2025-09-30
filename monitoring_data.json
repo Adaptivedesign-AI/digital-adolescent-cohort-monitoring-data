@@ -240,8 +240,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
       "start_time": "2025-09-30T02:42:57.117147",
       "end_time": null,
-      "total_messages": 7,
-      "last_activity": "2025-09-30T02:45:21.545847"
+      "total_messages": 8,
+      "last_activity": "2025-09-30T02:46:26.262835"
     }
   },
   "conversations": [
@@ -709,6 +709,21 @@
       "day_of_week": "Tuesday",
       "hour": 2,
       "conversation_turn": 7
+    },
+    {
+      "id": 32,
+      "session_id": "fac95b92-2503-44ce-84fb-a9ec3504d607",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "are you okay?",
+      "ai_response": "Honestly? I'm kinda all over the place. Some days are better than others, but right now it feels like everything's just piling up. I'm trying to hold it together, but sometimes it just feels like a lot, you know? Just gotta keep pushing through. \n\nEmotion tag: overwhelmed",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-30T02:46:26.262787",
+      "response_time_ms": 1667.657,
+      "message_length": 13,
+      "day_of_week": "Tuesday",
+      "hour": 2,
+      "conversation_turn": 8
     }
   ],
   "user_actions": [
@@ -1083,13 +1098,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-30T02:46:06.065163",
+  "last_updated": "2025-09-30T02:46:26.262888",
   "version": "2.0",
   "summary": {
-    "total_conversations": 31,
+    "total_conversations": 32,
     "total_users": 27,
     "most_active_student": "Ethan",
-    "total_messages": 31,
-    "last_24h_conversations": 7
+    "total_messages": 32,
+    "last_24h_conversations": 8
   }
 }
