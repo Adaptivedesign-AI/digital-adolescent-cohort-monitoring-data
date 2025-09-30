@@ -240,8 +240,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
       "start_time": "2025-09-30T02:42:57.117147",
       "end_time": null,
-      "total_messages": 2,
-      "last_activity": "2025-09-30T02:43:39.905538"
+      "total_messages": 3,
+      "last_activity": "2025-09-30T02:43:57.839734"
     }
   },
   "conversations": [
@@ -634,6 +634,21 @@
       "day_of_week": "Tuesday",
       "hour": 2,
       "conversation_turn": 2
+    },
+    {
+      "id": 27,
+      "session_id": "fac95b92-2503-44ce-84fb-a9ec3504d607",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "Why are you getting annoyed?",
+      "ai_response": "Ugh, it's just the usual stuff. People think they can say whatever online, like it doesn't matter. It kinda gets under my skin, you know? I try not to let it bother me, but sometimes it just feels like too much. And I feel like I can’t really talk to anyone about it. \n\nEmotion tag: spiraling",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-30T02:43:57.839695",
+      "response_time_ms": 2654.1220000000003,
+      "message_length": 28,
+      "day_of_week": "Tuesday",
+      "hour": 2,
+      "conversation_turn": 3
     }
   ],
   "user_actions": [
@@ -999,13 +1014,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-30T02:43:39.905588",
+  "last_updated": "2025-09-30T02:43:57.839766",
   "version": "2.0",
   "summary": {
-    "total_conversations": 26,
+    "total_conversations": 27,
     "total_users": 27,
     "most_active_student": "Ethan",
-    "total_messages": 26,
-    "last_24h_conversations": 2
+    "total_messages": 27,
+    "last_24h_conversations": 3
   }
 }
