@@ -240,8 +240,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
       "start_time": "2025-09-30T02:42:57.117147",
       "end_time": null,
-      "total_messages": 6,
-      "last_activity": "2025-09-30T02:44:58.548693"
+      "total_messages": 7,
+      "last_activity": "2025-09-30T02:45:21.545847"
     }
   },
   "conversations": [
@@ -694,6 +694,21 @@
       "day_of_week": "Tuesday",
       "hour": 2,
       "conversation_turn": 6
+    },
+    {
+      "id": 31,
+      "session_id": "fac95b92-2503-44ce-84fb-a9ec3504d607",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "yeah, it will be very funny",
+      "ai_response": "Maybe? I mean, hanging out with friends could be cool, but I just don’t want to wake up tomorrow feeling like crap. I guess I could use a break from everything, though. Just, like, have a little fun for once. \n\nEmotion tag: lowkey hopeful",
+      "scene_context": "Experiencing cyberbullying on social media",
+      "timestamp": "2025-09-30T02:45:21.545799",
+      "response_time_ms": 1250.056,
+      "message_length": 27,
+      "day_of_week": "Tuesday",
+      "hour": 2,
+      "conversation_turn": 7
     }
   ],
   "user_actions": [
@@ -1059,13 +1074,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-09-30T02:44:58.548746",
+  "last_updated": "2025-09-30T02:45:21.545895",
   "version": "2.0",
   "summary": {
-    "total_conversations": 30,
+    "total_conversations": 31,
     "total_users": 27,
     "most_active_student": "Ethan",
-    "total_messages": 30,
-    "last_24h_conversations": 6
+    "total_messages": 31,
+    "last_24h_conversations": 7
   }
 }
