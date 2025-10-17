@@ -269,6 +269,15 @@
       "end_time": null,
       "total_messages": 0,
       "last_activity": "2025-10-14T04:31:30.281416"
+    },
+    "89ba81c6-e4dc-45ee-9400-54612ade3b07": {
+      "session_id": "89ba81c6-e4dc-45ee-9400-54612ade3b07",
+      "ip_address": "10.220.95.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15",
+      "start_time": "2025-10-17T21:11:41.348965",
+      "end_time": null,
+      "total_messages": 0,
+      "last_activity": "2025-10-17T21:11:41.349873"
     }
   },
   "conversations": [
@@ -1158,10 +1167,19 @@
         "student_id": "student003"
       },
       "timestamp": "2025-10-14T04:31:42.815109"
+    },
+    {
+      "id": 46,
+      "session_id": "7d52a57f-131a-48bd-a63c-ed218b07f38a",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student003"
+      },
+      "timestamp": "2025-10-14T04:31:43.110761"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-14T04:31:42.815119",
+  "last_updated": "2025-10-17T21:11:41.349879",
   "version": "2.0",
   "summary": {
     "total_conversations": 32,
