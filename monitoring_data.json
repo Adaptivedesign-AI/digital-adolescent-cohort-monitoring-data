@@ -1257,10 +1257,19 @@
         "student_id": "student002"
       },
       "timestamp": "2025-10-17T22:44:03.059137"
+    },
+    {
+      "id": 49,
+      "session_id": "be34ef24-1cde-4189-8bb1-955ae6c18bde",
+      "action_type": "student_select",
+      "action_data": {
+        "student_id": "student001"
+      },
+      "timestamp": "2025-10-19T20:22:10.118305"
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-19T20:21:53.008234",
+  "last_updated": "2025-10-19T20:22:10.118313",
   "version": "2.0",
   "summary": {
     "total_conversations": 35,
