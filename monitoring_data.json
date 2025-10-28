@@ -312,8 +312,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-10-28T15:05:22.406549",
       "end_time": null,
-      "total_messages": 4,
-      "last_activity": "2025-10-28T15:11:56.912464"
+      "total_messages": 5,
+      "last_activity": "2025-10-28T15:16:34.244204"
     },
     "7b6c9589-f91a-4ecf-92aa-a9879e8b6d0d": {
       "session_id": "7b6c9589-f91a-4ecf-92aa-a9879e8b6d0d",
@@ -910,6 +910,21 @@
       "day_of_week": "Tuesday",
       "hour": 15,
       "conversation_turn": 2
+    },
+    {
+      "id": 40,
+      "session_id": "94fa72c4-7bb0-437f-b7bd-26381a6ebaa8",
+      "student_id": "student003",
+      "student_name": "Emily",
+      "user_message": "Well, I was thinking of myself as super unique and nobody can really get me. I find it very easy to feel emotion, especially being left out, it's like I was too sensitive for everything, and I was criticised a lot by my mom for being like this. But now, I'm 27, I think everything turns out to be better.",
+      "ai_response": "I get that. Feeling unique sounds cool, but it can totally feel isolating, too. Like, being sensitive is sometimes seen as a weakness, but it’s just... who you are, right? I totally relate to that feeling of being left out. My mom’s not super supportive either; she can be really critical, and it just makes everything heavier, you know? \n\nIt’s good to hear that things got better for you, though. I kinda hope that I can say the same one day. What do you think helped you the most in getting through that? \n\nEmotion tag: empathetic",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-10-28T15:16:34.244156",
+      "response_time_ms": 3401.186,
+      "message_length": 304,
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "conversation_turn": 3
     }
   ],
   "user_actions": [
@@ -1383,13 +1398,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-28T15:11:56.912512",
+  "last_updated": "2025-10-28T15:16:34.244262",
   "version": "2.0",
   "summary": {
-    "total_conversations": 39,
+    "total_conversations": 40,
     "total_users": 36,
     "most_active_student": "Ethan",
-    "total_messages": 39,
-    "last_24h_conversations": 4
+    "total_messages": 40,
+    "last_24h_conversations": 5
   }
 }
