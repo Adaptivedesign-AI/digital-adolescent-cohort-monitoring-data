@@ -312,8 +312,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-10-28T15:05:22.406549",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-10-28T15:05:22.406556"
+      "total_messages": 1,
+      "last_activity": "2025-10-28T15:06:09.072401"
     }
   },
   "conversations": [
@@ -841,6 +841,21 @@
       "day_of_week": "Friday",
       "hour": 21,
       "conversation_turn": 3
+    },
+    {
+      "id": 36,
+      "session_id": "94fa72c4-7bb0-437f-b7bd-26381a6ebaa8",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "Can you introduce yourself?",
+      "ai_response": "Sure, I guess. I'm Ethan, 16, just a regular junior in high school. I mean, I spend way too much time online and probably not enough on my grades, which are kinda just hanging around C's. I play some sports, like, I used to be on two teams last year, but now I'm just trying to stay active. \n\nI’ve had my share of stuff going on, you know? Family stuff, friends, and all that. I can be pretty chill, but also kinda distant. I guess I’m just figuring it all out, like most teens, right? Anyway, that’s me in a nutshell.\n\nEmotion tag: kinda ok",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-10-28T15:06:09.072315",
+      "response_time_ms": 2753.063,
+      "message_length": 27,
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -1296,13 +1311,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-28T15:05:44.275882",
+  "last_updated": "2025-10-28T15:06:09.072449",
   "version": "2.0",
   "summary": {
-    "total_conversations": 35,
-    "total_users": 31,
+    "total_conversations": 36,
+    "total_users": 35,
     "most_active_student": "Ethan",
-    "total_messages": 35,
-    "last_24h_conversations": 3
+    "total_messages": 36,
+    "last_24h_conversations": 1
   }
 }
