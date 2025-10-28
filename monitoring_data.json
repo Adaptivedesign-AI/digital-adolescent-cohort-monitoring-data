@@ -312,8 +312,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "start_time": "2025-10-28T15:05:22.406549",
       "end_time": null,
-      "total_messages": 3,
-      "last_activity": "2025-10-28T15:10:50.052203"
+      "total_messages": 4,
+      "last_activity": "2025-10-28T15:11:56.912464"
     },
     "7b6c9589-f91a-4ecf-92aa-a9879e8b6d0d": {
       "session_id": "7b6c9589-f91a-4ecf-92aa-a9879e8b6d0d",
@@ -895,6 +895,21 @@
       "day_of_week": "Tuesday",
       "hour": 15,
       "conversation_turn": 1
+    },
+    {
+      "id": 39,
+      "session_id": "94fa72c4-7bb0-437f-b7bd-26381a6ebaa8",
+      "student_id": "student003",
+      "student_name": "Emily",
+      "user_message": "Omg you are just like me before.",
+      "ai_response": "Oh, really? That’s kinda cool, I guess. But also, like, kinda sad? I mean, it's nice to find someone who gets it, but it sucks that we both have to deal with these things. What’s your story? Like, what have you been through? \n\nEmotion tag: curious",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-10-28T15:11:56.912417",
+      "response_time_ms": 1962.829,
+      "message_length": 32,
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "conversation_turn": 2
     }
   ],
   "user_actions": [
@@ -1368,13 +1383,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-28T15:10:50.052244",
+  "last_updated": "2025-10-28T15:11:56.912512",
   "version": "2.0",
   "summary": {
-    "total_conversations": 38,
+    "total_conversations": 39,
     "total_users": 36,
     "most_active_student": "Ethan",
-    "total_messages": 38,
-    "last_24h_conversations": 3
+    "total_messages": 39,
+    "last_24h_conversations": 4
   }
 }
