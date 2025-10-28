@@ -323,6 +323,15 @@
       "end_time": null,
       "total_messages": 0,
       "last_activity": "2025-10-28T15:10:32.451372"
+    },
+    "73cd4589-85e7-4c06-bc57-dea27c04857b": {
+      "session_id": "73cd4589-85e7-4c06-bc57-dea27c04857b",
+      "ip_address": "10.21.205.132",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "start_time": "2025-10-28T15:22:17.571877",
+      "end_time": null,
+      "total_messages": 0,
+      "last_activity": "2025-10-28T15:22:17.571884"
     }
   },
   "conversations": [
@@ -1413,7 +1422,7 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-10-28T15:19:14.833153",
+  "last_updated": "2025-10-28T15:22:17.571888",
   "version": "2.0",
   "summary": {
     "total_conversations": 41,
