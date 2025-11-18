@@ -375,8 +375,8 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
       "start_time": "2025-11-18T13:52:36.999371",
       "end_time": null,
-      "total_messages": 0,
-      "last_activity": "2025-11-18T13:52:37.001062"
+      "total_messages": 1,
+      "last_activity": "2025-11-18T13:52:53.970540"
     }
   },
   "conversations": [
@@ -1084,6 +1084,21 @@
       "day_of_week": "Tuesday",
       "hour": 15,
       "conversation_turn": 10
+    },
+    {
+      "id": 48,
+      "session_id": "42490271-8f04-4e3a-84d1-e4dd3920741e",
+      "student_id": "student003",
+      "student_name": "Emily",
+      "user_message": "Hello",
+      "ai_response": "Hey! What's up? You here to hang out or something? \n\nEmotion tag: kinda ok",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2025-11-18T13:52:53.970501",
+      "response_time_ms": 2335.2509999999997,
+      "message_length": 5,
+      "day_of_week": "Tuesday",
+      "hour": 13,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -1629,13 +1644,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2025-11-18T13:52:42.554369",
+  "last_updated": "2025-11-18T13:52:53.970624",
   "version": "2.0",
   "summary": {
-    "total_conversations": 47,
-    "total_users": 39,
+    "total_conversations": 48,
+    "total_users": 42,
     "most_active_student": "Ethan",
-    "total_messages": 47,
-    "last_24h_conversations": 12
+    "total_messages": 48,
+    "last_24h_conversations": 1
   }
 }
