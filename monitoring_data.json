@@ -456,8 +456,17 @@
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
       "start_time": "2026-02-23T01:00:12.659285",
       "end_time": null,
+      "total_messages": 1,
+      "last_activity": "2026-02-23T01:00:39.944316"
+    },
+    "2617ee72-27c6-4db9-8323-3a608f1673ec": {
+      "session_id": "2617ee72-27c6-4db9-8323-3a608f1673ec",
+      "ip_address": "10.20.100.197",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "start_time": "2026-02-23T01:00:18.937401",
+      "end_time": null,
       "total_messages": 0,
-      "last_activity": "2026-02-23T01:00:12.660172"
+      "last_activity": "2026-02-23T01:00:18.937409"
     }
   },
   "conversations": [
@@ -1195,6 +1204,21 @@
       "day_of_week": "Tuesday",
       "hour": 13,
       "conversation_turn": 2
+    },
+    {
+      "id": 50,
+      "session_id": "a507bc7c-145b-4831-b194-81f5a79290bc",
+      "student_id": "student002",
+      "student_name": "Ethan",
+      "user_message": "get out",
+      "ai_response": "Um, okay? I mean, I can chill. What's up with that? \n\nEmotion tag: annoyed",
+      "scene_context": "\n                        Meet with a new friend for the first time\n                    ",
+      "timestamp": "2026-02-23T01:00:39.944270",
+      "response_time_ms": 3094.2180000000003,
+      "message_length": 7,
+      "day_of_week": "Monday",
+      "hour": 1,
+      "conversation_turn": 1
     }
   ],
   "user_actions": [
@@ -1821,13 +1845,13 @@
     }
   ],
   "system_metrics": [],
-  "last_updated": "2026-02-23T01:00:18.488193",
+  "last_updated": "2026-02-23T01:00:39.944374",
   "version": "2.0",
   "summary": {
-    "total_conversations": 49,
-    "total_users": 42,
+    "total_conversations": 50,
+    "total_users": 52,
     "most_active_student": "Ethan",
-    "total_messages": 49,
-    "last_24h_conversations": 2
+    "total_messages": 50,
+    "last_24h_conversations": 1
   }
 }
